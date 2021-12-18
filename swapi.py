@@ -1,3 +1,6 @@
+# Desarrollado en colaboración entre el compañero Guillermo Arjona y mi persona
+
+
 import requests
 import urllib.request
 import urllib.parse
